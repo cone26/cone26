@@ -1,12 +1,15 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=%20Siwon&fontSize=90&fontAlign=82&fontColor=fff) -->
 <div align=center>
   
- #  _Teck Stack_  
+<!--  #  _Teck Stack_  
 
-</div>
+</div> -->
+<br>
+
+<br>
 
 <div align=center>
-<h3> Techs that I've used at least once </h3>
+<!-- <h3> Techs that I've used at least once </h3> -->
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
