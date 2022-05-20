@@ -9,7 +9,7 @@
 <br>
 
 
-## 🤜Skills
+## _🤜Skills_
   
 <br>
   
@@ -33,7 +33,7 @@
 
 <!-- <div align=center> -->
   
- #  _Status_  
+ ##  _😎Status_  
 
 <!-- </div> -->
 <br>
