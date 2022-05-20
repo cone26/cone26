@@ -1,7 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=250&section=header&text=%20Siwon&fontSize=90&fontAlign=82&fontColor=fff) -->
 <div align=center>
   
- #  _Teck Stack _  
+ #  _Teck Stack_  
 
 </div>
 
@@ -21,7 +21,7 @@
 
 <div align=center>
   
- #  _Status)_  
+ #  _Status_  
 
 </div>
 <br>
