@@ -44,12 +44,4 @@
   
 </div>
 
-<br>
 
-<br>
-
-<!-- <div align=center> -->
-  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cone26&layout=compact)](https://github.com/cone26/github-readme-stats)
-  
-<!-- </div> -->
