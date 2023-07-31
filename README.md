@@ -30,18 +30,5 @@
 
 <br>
 
-<!-- <div align=center> -->
-  
- ##  _😎Status_  
-
-<!-- </div> -->
-<br>
-<br>
-
-<div align=center>
-  
-[![Siwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=cone26&hide=prs&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-  
-</div>
 
 
