@@ -27,7 +27,7 @@
 
 
 #### 🤓 Etc 
-`AWS`, `Docker`, `GCP`
+`AWS`, `Docker`, `GCP`, `npm`, `pnpm`
 
 
 
