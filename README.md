@@ -18,15 +18,15 @@
   
 <br>
   
-#### Languages
+#### 🔠 Languages
 `JavaScript`, `TypeScript`, `Express`, `NestJS`, `TypeORM`, `MySQL`
 
 
-#### Tools
+#### 🧰 Tools
 `Git` , `Gihub`, `WebStorm`, `VScode`, `Jira`
 
 
-#### Etc 
+#### 🤓 Etc 
 `AWS`, `Docker`, `GCP`
 
 
