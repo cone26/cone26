@@ -19,20 +19,15 @@
 <br>
   
 #### Languages
-<img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Typescript-007acc?style=flat-square&logo=Typescript&logoColor=white"/></a>
-<br>
-<img src="https://img.shields.io/badge/Mysql-FF9E0F?style=flat-square&logo=Mysql&logoColor=white"/></a>
+`JavaScript`, `TypeScript`, `Express`, `NestJS`, `TypeORM`, `MySQL`
+
 
 #### Tools
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
+`Git` , `Gihub`, `WebStorm`, `VScode`, `Jira`
 
 
-
-<br>
-
-[![Cone26's GitHub stats](https://github-readme-stats.vercel.app/api?username=cone26)](https://github.com/anuraghazra/github-readme-stats)
-<br>
+#### Etc 
+`AWS`, `Docker`, `GCP`
 
 
 
