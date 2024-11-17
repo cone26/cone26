@@ -27,7 +27,7 @@
 
 
 #### 🤓 Etc 
-`AWS`, `Docker`, `GCP`, `npm`, `pnpm`
+`AWS`, `Docker`, `GCP`, `npm`, `pnpm`, `Github Actions`
 
 
 
