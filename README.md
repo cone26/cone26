@@ -18,8 +18,8 @@
   
 <br>
   
-#### 🔠 Languages
-`JavaScript`, `TypeScript`, `Express`, `NestJS`, `NextJS`, `ReactJS`, `TypeORM`, `MySQL`, `MongoDB`
+#### 🔠 Languages & Frameworks & DB
+`JavaScript`, `TypeScript`, `Express`, `NestJS`, `NextJS`, `ReactJS`, `TypeORM`, `MySQL`, `MongoDB`, `Reddis`
 
 
 #### 🧰 Tools
